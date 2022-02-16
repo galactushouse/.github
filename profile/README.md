@@ -1,1 +1,1 @@
-![Galactus House](assets/galactus-house-banner.png)
+![Galactus House](/profile/assets/galactus-house-banner.png)
